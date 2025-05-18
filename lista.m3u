@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn" group-title="Deportes", ESPN
+http://tu-enlace1.com/canal.m3u8
+
+#EXTINF:-1 tvg-id="foxsports" group-title="Deportes", Fox Sports
+http://tu-enlace2.com/canal.m3u8
+
+#EXTINF:-1 tvg-id="hbo" group-title="Películas", HBO
+http://tu-enlace3.com/canal.m3u8

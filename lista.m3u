@@ -2,6 +2,3 @@
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", ESPN
 http://tu-enlace.com/espn.m3u8
-
-#EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Fox_Sports_logo.svg" group-title="Deportes", Fox Sports
-http://tu-enlace.com/foxsports.m3u8

@@ -5,6 +5,3 @@ http://tu-enlace.com/espn.m3u8
 
 #EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Fox_Sports_logo.svg" group-title="Deportes", Fox Sports
 http://tu-enlace.com/foxsports.m3u8
-
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Logo.svg" group-title="Películas", HBO
-http://tu-enlace.com/hbo.m3u8
